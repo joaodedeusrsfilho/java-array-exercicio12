@@ -25,5 +25,4 @@ public class Exercicio12 {
 		System.out.println();
 		System.out.println("A soma = " + soma);
 	}
-
 }
